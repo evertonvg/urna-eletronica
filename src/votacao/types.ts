@@ -3,7 +3,7 @@ export type Candidato = {
   nome: string
   partido: string
   vice: string | null
-  /** Caminho em public/, ex.: /candidatos/2026/13.jpg */
+  /** Caminho relativo a public/, ex.: candidatos/2026/13.jpg */
   foto?: string
   fotoCredito?: { autor: string | null; licenca: string | null; fonte: string }
 }

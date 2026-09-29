@@ -73,7 +73,13 @@ export function TelaVotacao({ estado, candidato }: Props) {
 
         {candidato && (
           <div className="flex flex-col items-center gap-2">
-            <Foto rotulo="Presidente" src={candidato.foto} alt={candidato.nome} grande />
+            <Foto
+              rotulo="Presidente"
+              // BASE_URL mantém as fotos funcionando quando o site está num subcaminho (GitHub Pages).
+              src={candidato.foto && import.meta.env.BASE_URL + candidato.foto}
+              alt={candidato.nome}
+              grande
+            />
             {candidato.vice && <Foto rotulo="Vice" />}
           </div>
         )}

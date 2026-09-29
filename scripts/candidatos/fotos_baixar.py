@@ -57,7 +57,7 @@ for chave, v in artigos.items():
                 if e.code != 429: raise
                 time.sleep(int(e.headers.get('Retry-After') or 10))
         time.sleep(0.5)
-    resultado[chave] = {'foto': f'/candidatos/{rel}', 'fotoCredito': {
+    resultado[chave] = {'foto': f'candidatos/{rel}', 'fotoCredito': {
         'autor': meta['autor'], 'licenca': meta['licenca'], 'fonte': meta['pagina']}}
 
 json.dump(resultado, open(os.path.join(AQUI, 'fotos.json'), 'w'), ensure_ascii=False, indent=1)
