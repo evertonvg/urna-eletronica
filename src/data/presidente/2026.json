@@ -1,0 +1,162 @@
+{
+  "ano": 2026,
+  "fonte": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+  "candidatos": [
+    {
+      "numero": "27",
+      "nome": "Clariana Barão",
+      "partido": "DC",
+      "vice": "Fabiana Torquato",
+      "foto": "/candidatos/2026/27.jpg",
+      "fotoCredito": {
+        "autor": "LFLN",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Clariana_Zacarkim_Bar%C3%A3o.jpg"
+      }
+    },
+    {
+      "numero": "21",
+      "nome": "Edmilson Costa",
+      "partido": "PCB",
+      "vice": "Cleusa Santos",
+      "foto": "/candidatos/2026/21.jpg",
+      "fotoCredito": {
+        "autor": "Diário Liberdade",
+        "licenca": "CC BY 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Edmilson_Costa_-_PCB.jpg"
+      }
+    },
+    {
+      "numero": "70",
+      "nome": "Escritor Augusto Cury",
+      "partido": "AVANTE",
+      "vice": "Júlio Delgado",
+      "foto": "/candidatos/2026/70.jpg",
+      "fotoCredito": {
+        "autor": "Lima Andruška from Rio de Janeiro, Brazil",
+        "licenca": "CC BY-SA 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Augusto_Cury,_escritor_(28339139296)_(cropped).jpg"
+      }
+    },
+    {
+      "numero": "22",
+      "nome": "Flávio Bolsonaro",
+      "partido": "PL",
+      "vice": "Alfredo Gaspar",
+      "foto": "/candidatos/2026/22.jpg",
+      "fotoCredito": {
+        "autor": "Agência Senado",
+        "licenca": "Attribution",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_(v._AgSen)_(3x4).jpg"
+      }
+    },
+    {
+      "numero": "16",
+      "nome": "Hertz Dias",
+      "partido": "PSTU",
+      "vice": "Vanessa Portugal",
+      "foto": "/candidatos/2026/16.jpg",
+      "fotoCredito": {
+        "autor": "Romerito Pontes",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Hertz_Dias_PSTU.jpg"
+      }
+    },
+    {
+      "numero": "28",
+      "nome": "Leonardo Avalanche",
+      "partido": "PRTB",
+      "vice": "Silvia",
+      "foto": "/candidatos/2026/28.jpg",
+      "fotoCredito": {
+        "autor": "LFLN",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Leonardo_Avalanche.jpg"
+      }
+    },
+    {
+      "numero": "13",
+      "nome": "Lula",
+      "partido": "PT",
+      "vice": "Geraldo Alckmin",
+      "foto": "/candidatos/2026/13.jpg",
+      "fotoCredito": {
+        "autor": "Ricardo Stuckert/PR",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(ombros)_denoise.jpg"
+      }
+    },
+    {
+      "numero": "14",
+      "nome": "Renan Santos",
+      "partido": "MISSÃO",
+      "vice": "Coronel Medina",
+      "foto": "/candidatos/2026/14.jpg",
+      "fotoCredito": {
+        "autor": "Leonardo Carraro",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Renan_Santos_-_Congresso_do_Partido_Miss%C3%A3o,_2026_(cropped_2).jpg"
+      }
+    },
+    {
+      "numero": "55",
+      "nome": "Ronaldo Caiado",
+      "partido": "PSD",
+      "vice": "Gilberto Kassab",
+      "foto": "/candidatos/2026/55.jpg",
+      "fotoCredito": {
+        "autor": "Bianca Kida",
+        "licenca": "CC BY 2.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Foto_oficial_do_governador_de_Goi%C3%A1s,_Ronaldo_Caiado_em_2023_(ombros).jpg"
+      }
+    },
+    {
+      "numero": "29",
+      "nome": "Rui Costa Pimenta",
+      "partido": "PCO",
+      "vice": "Antônio Carlos",
+      "foto": "/candidatos/2026/29.jpg",
+      "fotoCredito": {
+        "autor": "Calloshccp",
+        "licenca": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Rui_Costa_Pimenta_Close.jpg"
+      }
+    },
+    {
+      "numero": "80",
+      "nome": "Samara",
+      "partido": "UP",
+      "vice": "Raquel Brício",
+      "foto": "/candidatos/2026/80.png",
+      "fotoCredito": {
+        "autor": "Fy Javan",
+        "licenca": "CC0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Samara_Paran%C3%A1_(cropped).png"
+      }
+    },
+    {
+      "numero": "35",
+      "nome": "Veterinário Wilson Grassi",
+      "partido": "DEMOCRATA",
+      "vice": "Suêd Haidar",
+      "foto": "/candidatos/2026/35.jpg",
+      "fotoCredito": {
+        "autor": "Portal de Dados Abertos do Tribunal Superior Eleitoral do Brasil (TSE)",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Wilson_Grassi_J%C3%BAnior_2024.jpg"
+      }
+    },
+    {
+      "numero": "30",
+      "nome": "Zema",
+      "partido": "NOVO",
+      "vice": "Eduardo Girão",
+      "foto": "/candidatos/2026/30.jpg",
+      "fotoCredito": {
+        "autor": "Governo do Estado de São Paulo",
+        "licenca": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Romeu_Zema_2025_(cropped).jpg"
+      }
+    }
+  ]
+}

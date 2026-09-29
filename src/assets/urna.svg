@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 951 688" width="951" height="688">
+  <title>Urna eletrônica - botões mapeados</title>
+
+  <style>
+    .area {
+      fill: rgba(255, 0, 200, 0.15);
+      stroke: #ff00c8;
+      stroke-width: 2;
+      cursor: pointer;
+      transition: fill 0.15s;
+    }
+    .area:hover { fill: rgba(255, 0, 200, 0.4); }
+    .tela {
+      fill: rgba(0, 150, 255, 0.08);
+      stroke: #0096ff;
+      stroke-dasharray: 6 4;
+      cursor: default;
+    }
+    .tela:hover { fill: rgba(0, 150, 255, 0.08); }
+  </style>
+
+  <image href="urna.png" xlink:href="urna.png" x="0" y="0" width="951" height="688" />
+
+  <!-- Tela (display) -->
+  <rect id="tela" class="area tela" x="114" y="127" width="415" height="316" />
+
+  <!-- Teclado numérico -->
+  <g id="teclado">
+    <rect id="tecla-1" class="area" data-key="1" x="640" y="202" width="42" height="31" rx="3" />
+    <rect id="tecla-2" class="area" data-key="2" x="700" y="202" width="42" height="31" rx="3" />
+    <rect id="tecla-3" class="area" data-key="3" x="757" y="202" width="45" height="31" rx="3" />
+
+    <rect id="tecla-4" class="area" data-key="4" x="640" y="252" width="45" height="31" rx="3" />
+    <rect id="tecla-5" class="area" data-key="5" x="700" y="252" width="42" height="31" rx="3" />
+    <rect id="tecla-6" class="area" data-key="6" x="758" y="252" width="44" height="31" rx="3" />
+
+    <rect id="tecla-7" class="area" data-key="7" x="640" y="302" width="43" height="31" rx="3" />
+    <rect id="tecla-8" class="area" data-key="8" x="700" y="302" width="43" height="31" rx="3" />
+    <rect id="tecla-9" class="area" data-key="9" x="757" y="302" width="46" height="31" rx="3" />
+
+    <rect id="tecla-0" class="area" data-key="0" x="700" y="352" width="43" height="35" rx="3" />
+  </g>
+
+  <!-- Teclas de ação -->
+  <g id="acoes">
+    <rect id="tecla-branco"   class="area" data-key="branco"   x="608" y="402" width="64" height="34" rx="3" />
+    <rect id="tecla-corrige"  class="area" data-key="corrige"  x="689" y="403" width="63" height="33" rx="3" />
+    <rect id="tecla-confirma" class="area" data-key="confirma" x="768" y="392" width="66" height="43" rx="3" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-urna-case: #e4e5e7;
+  --color-urna-case-dark: #c9cbce;
+  --color-urna-lcd: #c7ccc9;
+  --color-urna-lcd-ink: #3b3d3c;
+  --color-urna-panel: #2a2b2d;
+  --color-urna-key: #1d1e20;
+  --color-urna-branco: #f7f7f5;
+  --color-urna-corrige: #e8711c;
+  --color-urna-confirma: #3fae6a;
+}
+
+@keyframes tremer {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-10px); }
+  40%, 80% { transform: translateX(10px); }
+}
